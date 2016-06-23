@@ -603,6 +603,14 @@ Little less quotes do not outweigh the loss of syntax regularity
 (which is useful when munging source code with regular expressions/scripts)
 and confusion of non-Ruby programmers reading Ruby code.
 
+### Style/SymbolArray
+
+*Different from standard*
+
+Little less quotes do not outweigh the loss of syntax regularity
+(which is useful when munging source code with regular expressions/scripts)
+and confusion of non-Ruby programmers reading Ruby code.
+
 ### Style/RegexpLiteral
 
 *Different from standard*
